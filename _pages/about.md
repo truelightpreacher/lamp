@@ -55,7 +55,7 @@ permalink: /about
   </p>
   <p>
     <b>Q: How can I help your mission at The Lamp?</b><br>
-    <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:{{ site.email }}">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with strong research and writing skills, we will lovingly welcome your contributions and compensate you as we're able. Finally, if you feel so compelled, please donate using the link below.
+    <b>A:</b> First of all, pray for us and provide your feedback by commenting on articles or <a href="mailto:{{ site.email }}">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with strong research and writing skills, we will lovingly welcome your contributions and compensate you as we're able. Finally, if you feel so compelled, please donate using the link below.
   </p>
 </div>
 
