@@ -13,6 +13,7 @@ permalink: /:title/
 markdown: kramdown
 email: editor@lamp.news
 paypal: tc@flmin.org
+twitter: https://twitter.com/LampHeadlines
 
 # Authors
 authors:
