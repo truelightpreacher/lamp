@@ -1,16 +1,17 @@
 ---
 layout: post
-title: A new, mightier tower of Babel
+title: 'A new, mightier tower of Babel'
 author: tc
-passage: Genesis 11:4
+passage: 'Genesis 11:4'
 source:
-    name: Clouds AO
-    url: http://www.cloudsao.com/ANALEMMA-TOWER
-    headline: ANALEMMA TOWER
+  name: Clouds AO
+  url: 'http://www.cloudsao.com/ANALEMMA-TOWER'
+  headline: ANALEMMA TOWER
 image: assets/images/articles/2017-03-30-analemma-tower/analemma-tower.jpg
 comments: false
 featured: true
 hidden: true
+published: true
 ---
 
 Perhaps you've seen this story in mainstream news over the last week. Forbes, NBC, CNN -- all the big media players -- are talking about it. The idea is to suspend an extremely tall tower, almost two miles in height, over the surface of the earth, hanging by cables from an asteroid captured and entrained into geosynchronous orbit over New York. Go read about it now, then come back.
@@ -43,7 +44,7 @@ Daily ritual phases for people indwelling this inverted tower are indicated in a
 
 **1 A.M.**: Inurn
 
-![Analemma Daily Cycle](http://oilforlight.com/images/articles/2017-03-30-analemma-tower/analemma-cycle.jpg)
+![Analemma Daily Cycle](https://lamp.news/images/articles/2017-03-30-analemma-tower/analemma-cycle.jpg)
 
 These are more Catholic terms, if not references to Freemasonry and other cultic beliefs.
 
