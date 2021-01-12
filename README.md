@@ -1,1 +1,1 @@
-# STEDFAST News
+# The Lamp

@@ -1,6 +1,6 @@
 # Site
-name: "STEDFAST News"
-title: "STEDFAST News"
+name: "The Lamp"
+title: "The Lamp"
 description: "All the news that's fit for doctrine, for reproof, for correction, for instruction in righteousness."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -11,7 +11,7 @@ mailchimp-list: 'https://stedfastnews.us3.list-manage.com/subscribe?u=7ee8bb30ad
 include: ["_pages"]
 permalink: /:title/
 markdown: kramdown
-email: editor@stedfastnews.com
+email: editor@lamp.news
 paypal: tc@flmin.org
 
 # Authors
@@ -20,8 +20,7 @@ authors:
     name: TC
     display_name: TC Howitt
     avatar: 'assets/images/avatars/tc.png'
-    email: tc@flmin.org
-    web: https://flmin.org
+    email: truelightpreacher@gmail.com
     twitter: https://twitter.com/WatchmanTC
     description: "TC is a Christian, a husband, a father and a writer."
 
