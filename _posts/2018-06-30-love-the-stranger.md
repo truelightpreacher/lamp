@@ -2,23 +2,16 @@
 layout: post
 title: Love the Stranger
 author: tc
-passage: Lev 19:33-34
+passage: 'Lev 19:33-34'
 source:
-    name: Facebook user Lisa Tucker
-    url: https://www.facebook.com/photo.php?fbid=10151312166576222&set=a.10150829302276222.394506.674531221&type=3&theater
-    headline: SO LET ME GET THIS STRAIGHT
+  name: Facebook user Lisa Tucker
+  url: >-
+    https://www.facebook.com/photo.php?fbid=10151312166576222&set=a.10150829302276222.394506.674531221&type=3&theater
+  headline: SO LET ME GET THIS STRAIGHT
 image: assets/images/articles/2018-06-30-love-the-stranger/cage.jpg
 comments: false
+published: true
 ---
-
-This Facebook post I'm sharing here has garnered 7 million shares since it first appeared in 2013. With illegal immigration and the treatment of refugee families now making headlines, it's popular again.
-
-First of all, judging the fairness of US immigration policy by comparing it to those of North Korea, Afghanistan and Iran ought to strike any reasonable thinker as suspicious and ludicrous, if not self-defeating. One would hope the US treats immigrants vastly better than these other countries.
-
-Secondly, the conclusion of the post -- "No wonder we are a country in debt" -- holds no water. According to [2016 figures for federal budget outlays](https://www.investopedia.com/updates/usa-national-debt/), the top annual expenses contributing to US debt are Healthcare ($1.1T), Social Security ($1T) and Defense ($1.1T). Compare that to [FAIR's estimate](https://www.fairus.org/…/Fiscal-Burden-of-Illegal-Immigrati…) of a mere $30B net federal impact of "illegal aliens" for 2017, not to mention that liberal California covers over 35% of total state costs across the US of $85B. Lest anyone suspects FAIR of being unfairly liberal in their estimates, let it be known that their conservative credibility is secured by their [classification as a hate group by the SPLC](https://www.splcenter.org/…/federation-american-immigration…).
-
-Third, and most importantly, let's consider the Bible. The Bible isn't mentioned in the original post in question, but it has everything to do with truth. That makes it relevant, especially if you take yourself to be a Christian.
-
 A couple weeks ago, Attorney General Jeff Sessions invoked Romans 13 to justify the government's zero-tolerance treatment of illegal immigrant families. The beginning passage of Romans 13, as you may be aware now that it's reached national news coverage, has the apostle Paul enjoining the Christians in Rome to "be subject unto the higher powers," with the understanding that "the powers that be are ordained of God" (v. 1).
 
 The good news is, this caused mainstream media outlets to actually quote scripture and consider its meaning. The bad news is, Sessions' use of Romans 13 follows a long, shameful history of regimes abusing this portion of scripture to justify their unjust laws, from the holocaust to the slave trade and apartheid.
