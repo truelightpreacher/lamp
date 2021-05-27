@@ -14,7 +14,7 @@ hidden: true
 published: true
 ---
 
-Perhaps you've seen this story in mainstream news over the last week. Forbes, NBC, CNN -- all the big media players -- are talking about it. The idea is to suspend an extremely tall tower, almost two miles in height, over the surface of the earth, hanging by cables from an asteroid captured and entrained into geosynchronous orbit over New York. Go read about it now, then come back.
+Perhaps you've seen this story in mainstream news over the last week. Forbes, NBC, CNN -- all the big media players -- are talking about it. The idea is to suspend an extremely tall tower, almost two miles in height, over the surface of the earth, hanging by cables from an asteroid captured and entrained into geosynchronous orbit over New York.
 
 This is the latest in a series of dreamy speculations posited by the New York architecture firm Clouds Architecture Office, which is mainly operated by a professor at Pratt Institute named Ostap Rudakevych. They do a lot of speculative work for NASA, including plans for Mars colonization.
 
